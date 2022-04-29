@@ -9,6 +9,13 @@
 - Docker Desktop
 
 
+## Clone the repo
+
+```
+git clone https://github.com/ajeetraina/spring-docker-demo
+```
+
+
 ## Execute the below command to build the package:
 
 
