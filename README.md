@@ -20,7 +20,7 @@ git clone https://github.com/ajeetraina/spring-docker-demo
 
 
 ```
-mvn package
+./mvnw package
 ```
 
 ## Running the app packages as JAR file
